@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BlazorDevExpress/BlazorDevExpress.Client/BlazorDevExpress.Client.csproj" Id="7d155893-9689-4c18-a170-5b1161e62c56" />
+  <Project Path="../BlazorDevExpress/BlazorDevExpress/BlazorDevExpress.csproj" Id="9cfdadb6-4257-4349-aed8-135171649d97" />
+  <Project Path="PlaywrightTests.csproj" />
+</Solution>
